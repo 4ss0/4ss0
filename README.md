@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4ss0
-- 👀 I’m interested in Machine Learning, Big Data, Data Mining, AI
-- 🌱 I’m currently learning Rust, Python, Java
+- 👀 I’m interested in Cryptocurrencies
+- 🌱 I’m currently learning Rust & Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: DM me
 
