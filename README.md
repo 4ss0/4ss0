@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @4ss0
-- 👀 I’m interested in Cryptocurrencies & Smart Contracts
-- 🌱 I’m currently learning Rust, Java, Solidity, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: DM me
+- Hi, I’m @4ss0
+- I’m interested in Cryptocurrencies & Smart Contracts
+- I’m currently learning Rust, Java, Solidity, Python
+- I’m looking to collaborate on ...
+- How to reach me: DM me
 
 <!---
 4ss0/4ss0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
