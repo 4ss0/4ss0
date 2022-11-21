@@ -1,7 +1,7 @@
 - Hi, I’m @4ss0
 - I’m interested in Cryptocurrencies & Smart Contracts
-- I’m currently learning Rust, Java, Solidity, Python
-- I’m looking to collaborate on Stratum V2 Project
+- I’m currently learning Rust, Solidity, Python
+- Collaborating on Stratum V2 Project
 - How to reach me: DM me
 
 <!---
