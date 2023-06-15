@@ -1,6 +1,6 @@
 - Hi, I’m @4ss0
-- I’m interested in Bitcoin and Cryptocurrencies & Smart Contracts in general
-- I’m currently developing in Rust, Solidity, Python
+- I’m interested in Bitcoin
+- I’m currently developing in Rust and Python
 - Collaborating on Stratum V2 Project
 - How to reach me: DM me
 
